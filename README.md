@@ -21,9 +21,9 @@
 - links
 
 ### Useful Docs
-* [Culture Document](url)
+* [Culture Document](https://www.notion.so/Part-Time-Build-Sprint-Culture-Document-e344d84c5f4445709e995ed57b28c24e)
 * [Trello Board](https://trello.com/b/e7UFiks8/restaurant-passport)
-* [Schedule and Daily Milestones](url)
+* [Schedule and Daily Milestones](https://www.notion.so/Unit-Completion-Rubrics-c0783f6d9b7e435f9ce47e8cd2d0ee3b)
 
 ## Contributors
 
