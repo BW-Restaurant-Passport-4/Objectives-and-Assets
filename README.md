@@ -21,9 +21,9 @@
 - links
 
 ### Useful Docs
-* [Culture Document](https://www.notion.so/Full-Time-Build-Sprint-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
-* [Trello Board](https://trello.com/b/Uh7xpQRw/build-week-safe-routes)
-* [Schedule and Daily Milestones](https://www.notion.so/6e719d512134435f8a89ca2862f8d3e7?v=6c8d3bd7bbcb44539f8659fc96caa906)
+* [Culture Document](url)
+* [Trello Board](https://trello.com/b/e7UFiks8/restaurant-passport)
+* [Schedule and Daily Milestones](url)
 
 ## Contributors
 
