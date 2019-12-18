@@ -7,11 +7,43 @@
 
 ## MVP
 
+1. User can create/register an authenticated account as a `passportHolder` by providing the following: (web, mobile)
+	* unique `username` - String
+	* strong `password` - String
+	* a `name` - String
+	* a valid `city` - String
+	* a valid and unique `email` - String
+
+2. Authenticated `passportHolder` can read, update and delete `beenThere` restaurants from a `passport` (a list of all restaurants that they have visited). Each `beenThere` should have the following properties at a minimum: (web, mobile)
+	
+	* `restaurantName` - String
+	* `streetAddress` - String
+	* `city` - String
+	* `zipcode` - String
+	* `phoneNumber` - String
+	* `websiteURL` - String/URL
+	* `myRating` (1 thru 5) - Int
+	* `notes` - String
+	* `stamped` - Boolean
+
+
+3. Authenticated `passportHolder` can create, update, view and delete `restaurant` from their `passport`. (mobile)
+
+4. Authenticated `passportHolder` can mark that they visited a `beenThere` with `stamped` (which updates the view with a visual representation of a stamp or punch) (Mobile, web)
+
 #### Track:
-- bullet
-- bullet
+- React 1: Antoinette Jones
+- React 2: Patrick Replogle
+- Backend: Kyle Barnett
+- UI: Erik Scow
 
 ## STRETCH
+
+1. Implement a feature to allow adding other cities besides the user's home city to their passport. (web, mobile)
+
+2. Implement a feature to allow sharing your `passport` with friends. (mobile)
+
+3. Leverage Yelp or the API of your choice to present the user with nearby restaurants to add to their `passport` (web/mobile)
 
 #### Track:
 - bullet
