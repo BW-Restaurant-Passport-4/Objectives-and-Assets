@@ -1,18 +1,39 @@
 Proposal
 
 - What problem does your app solve?
+How to keep track of where you have eaten and rate your experience or likelyhood to return. 
+
 - Be as specific as possible; how does your app solve the problem?
+
+
 - What is the mission statement?
+
+
 Features
 
 - What features are required for your minimum viable product?
+
+1. Register and create an account.
+2. Login in the passport dashboard.
+3. View, create, update and delete any additions to the user's passport.
+
 - What features may you wish to put in a future release?
+1. Connect the passport app to the user's social media.
+2. GPS capabilities added to passport additions.
+
 - What do the top 3 similar apps do for their users?
+Yelp allows users to rate and search restaurants in their area and elsewhere. Helps users make better food decisions.
 Frameworks - Libraries
 
 - What 3rd party frameworks/libraries are you considering using?
+Material UI, styled-components, formik, axios, bootstrap, reactstrap, react-router-dom
+
 - Do APIs require you to contact its maintainer to gain access?
+No
+
 - Are you required to pay to use the API?
+No
+
 - Have you considered using Apple Frameworks? (MapKit, Healthkit, ARKit?)
 For Data Scientists
 
@@ -25,8 +46,16 @@ For Data Scientists
 Target Audience
 
 - Who is your target audience? Be specific.
+
+1. Foodies and people who like to travel and eat out. 
+2. Business people. 
+3. Couples looking for a date night or casual hangout. 
+
 - What feedback have you gotten from potential users?
+none
+
 - Have you validated the problem and your solution with your target audience? How?
+No
 
 Research
 
